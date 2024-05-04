@@ -1,0 +1,12 @@
+name = "ada"
+description = ""
+version = "0.1.0-dev"
+
+authors = ["Axel Padilla"]
+maintainers = ["Axel Padilla <mail@axelpadilla.me>"]
+maintainers-logins = ["adpadillar"]
+licenses = "MIT"
+website = ""
+tags = []
+
+executables = ["ada"]
